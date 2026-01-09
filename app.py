@@ -12,7 +12,7 @@ API_KEY = os.getenv("SERP_API_KEY")
 
 
 # ---------------- UI ----------------
-st.title("🛒 Price Comparison App")
+st.title("🛒ecommerce Price Comparison App")
 product = st.text_input("Enter product name")
 
 # ---------------- BUTTON ----------------
